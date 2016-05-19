@@ -1,0 +1,16 @@
+{
+	"status": 0,
+	"whitelist": ["00:00:00:00:00:01", "00:00:00:00:00:02", "00:00:00:00:00:03"],
+	"actions": {
+		"pia": 1,
+		"cls": 0
+	},
+	"authentication": {
+		"username": "dregle",
+		"password": "elgerd"
+	},
+	"firmware": {
+		"version": "0.1",
+		"logs": "/tmp/mylog.log"
+	}
+}
